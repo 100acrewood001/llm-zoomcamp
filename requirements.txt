@@ -5,3 +5,8 @@ elasticsearch
 scikit-learn
 pandas
 python-dotenv
+os
+wget
+elasticsearch==8.10.0
+tqdm
+qdrant-client[fastembed]>=1.14.2
