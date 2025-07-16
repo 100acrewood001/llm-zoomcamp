@@ -10,3 +10,4 @@ elasticsearch==8.10.0
 tqdm
 qdrant-client[fastembed]>=1.14.2
 requests
+markdown
